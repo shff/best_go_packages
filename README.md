@@ -33,6 +33,11 @@ Sources:
  - https://github.com/Masterminds/squirrel (query builder)
  - https://github.com/elgris/sqrl (query builder)
 
+### Migrations
+
+ - https://github.com/mattes/migrate
+ - https://bitbucket.org/liamstask/goose
+
 ### Queue:
 
  - https://github.com/gocraft/work (with script)
