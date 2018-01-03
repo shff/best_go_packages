@@ -190,6 +190,10 @@ Sources:
  - http://mates.vs.uni-due.de
  - https://github.com/buu700/upskirt.go
 
+### Bar Codes:
+
+ - https://github.com/boombuler/barcode
+
 ## Experimental
 
 ### Expression Parser
