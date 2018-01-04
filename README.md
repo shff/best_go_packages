@@ -193,6 +193,7 @@ Sources:
 ### Bar Codes:
 
  - https://github.com/boombuler/barcode
+ - https://github.com/skip2/go-qrcode
 
 ## Experimental
 
