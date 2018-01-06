@@ -182,6 +182,7 @@ Sources:
 ### Apple Notification Service
 
  - https://github.com/sideshow/apns2
+ - https://github.com/blackbeans/apns
 
 ## File Formats, etc
 
