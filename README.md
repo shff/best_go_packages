@@ -17,17 +17,18 @@ Sources:
 
 ### ORM:
 
- - https://github.com/jinzhu/gorm (relationships with `Related` keyword, callbacks, migrations)
- - https://github.com/go-gorp/gorp (relationships but requires join by hand, callbacks, migrations)
+ - https://github.com/jinzhu/gorm (relationships with `Related` keyword, callbacks, auto-migrations)
+ - https://github.com/go-gorp/gorp (relationships but requires join by hand, callbacks, auto-migrations)
  - https://github.com/go-xorm/xorm (relationships but requires join by hand, migrations, map[string]string, callbacks)
  - https://github.com/astaxie/beego/tree/master/orm
+ - https://github.com/markbates/pop (complete toolkit, with yaml configuration, true migrations, etc)
+ - https://github.com/coocood/qbs (very fast, automatic joins)
  - http://upper.io/ (no joins)
  - Blogpost about it: http://jmoiron.net/blog/golang-orms/
  - Reddit: https://www.reddit.com/r/golang/comments/3ajqa6/golang_which_orm_is_better/
 
 ### Not-ORM:
 
- - https://github.com/coocood/qbs (mostly struct mapping, but has automatic joins)
  - https://github.com/jmoiron/sqlx (query builder)
  - https://github.com/gocraft/dbr (query builder)
  - https://github.com/Masterminds/squirrel (query builder)
@@ -37,6 +38,7 @@ Sources:
 
  - https://github.com/mattes/migrate
  - https://bitbucket.org/liamstask/goose
+ - https://github.com/markbates/pop/tree/master/fizz
 
 ### Queue:
 
@@ -160,6 +162,10 @@ Sources:
  - https://github.com/getsentry/raven-go
  - https://github.com/bugsnag/bugsnag-go
  - https://github.com/yvasiyarov/newrelic_platform_go
+ 
+### Webapp Monitoring:
+
+ - https://github.com/sourcegraph/checkup
 
 ### Slack Bots:
 
@@ -195,9 +201,26 @@ Sources:
  - https://github.com/boombuler/barcode
  - https://github.com/skip2/go-qrcode
 
+### Image Processing
+
+ - https://github.com/nfnt/resize
+ - https://github.com/anthonynsimon/bild
+ - https://github.com/h2non/bimg
+
+### Charts
+
+ - https://github.com/wcharczuk/go-chart
+
+## Important Utilities
+
+### Debugging
+
+ - https://github.com/y0ssar1an/q
+
 ## Experimental
 
 ### Expression Parser
 
  - https://github.com/Knetic/govaluate
  - https://github.com/elgs/jsonql/blob/master/exparser.go
+ - https://github.com/mattn/anko (complete language)
