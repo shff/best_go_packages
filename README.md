@@ -159,7 +159,6 @@ Sources:
 
  - https://github.com/smancke/guble
  - https://github.com/appleboy/gorush
- - Apple: https://github.com/sideshow/apns2
 
 ### Error Logging APIs:
 
@@ -183,6 +182,7 @@ Sources:
 
  - https://github.com/sideshow/apns2
  - https://github.com/blackbeans/apns
+ - https://github.com/edganiukov/apns (uses stdlib for keepalive)
 
 ## File Formats, etc
 
