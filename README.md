@@ -115,6 +115,10 @@ Sources:
    - https://github.com/fernet/fernet-go / https://github.com/fernet/fernet-go/blob/master/example_test.go
  - ~~https://github.com/dgrijalva/jwt-go~~
 
+### HTML Sanitizers
+
+ - https://github.com/microcosm-cc/bluemonday
+
 ## Backend Tools
 
 ### Distributed Messaging:
