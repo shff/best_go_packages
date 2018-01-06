@@ -174,6 +174,14 @@ Sources:
 ### Slack Bots:
 
  - https://github.com/sbstjn/hanu
+ 
+### Google Authenticator
+
+ - https://github.com/dgryski/dgoogauth (Example: https://github.com/yoshiotu/2fa)
+
+### Apple Notification Service
+
+ - https://github.com/sideshow/apns2
 
 ## File Formats, etc
 
@@ -204,6 +212,7 @@ Sources:
 
  - https://github.com/boombuler/barcode
  - https://github.com/skip2/go-qrcode
+ - https://github.com/rsc/qr
 
 ### Image Processing
 
