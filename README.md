@@ -42,7 +42,8 @@ Sources:
 
 ### Queue:
 
- - https://github.com/gocraft/work (with script)
+ - https://stackoverflow.com/a/45990039 (same process - with goroutines)
+ - https://github.com/gocraft/work
  - https://github.com/benmanns/goworker (resque compatible)
  - https://github.com/jrallison/go-workers (Sidekiq compatible)
  - https://gist.github.com/harlow/dbcd639cf8d396a2ab73 (how to)
