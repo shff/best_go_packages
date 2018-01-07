@@ -137,6 +137,12 @@ Sources:
  - https://github.com/robfig/cron
  - ~~https://github.com/ajvb/kala~~ (not production-ready)
 
+### Fulltext Search
+
+ - https://github.com/blevesearch/bleve
+ - https://github.com/go-ego/riot
+ - https://github.com/huichen/wukong
+
 ## APIs etc
 
 ### Recaptcha:
