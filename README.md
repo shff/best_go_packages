@@ -52,6 +52,12 @@ Sources:
  - ~~https://github.com/ajvb/kala~~ (not production-ready)
  - https://golanglibs.com/category/job-queue?sort=top (list of libraries)
 
+### Goroutine Pool
+
+ - https://github.com/ivpusic/grpool
+ - https://github.com/Jeffail/tunny
+ - https://github.com/go-playground/pool
+
 ## Web Layer
 
 ### Oauth Server:
@@ -71,13 +77,17 @@ Sources:
 
 ### Websockets:
 
- - https://echo.labstack.com/cookbook/websocket#using-net-websocket
+ - https://echo.labstack.com/cookbook/websocket#using-net-websocket (example)
  - https://github.com/golang-samples/websocket/blob/master/websocket-chat/src/chat/server.go (example)
  - https://github.com/knowthen/rtsupportserver (example)
  - https://github.com/scotch-io/go-realtime-chat (example)
  - https://github.com/SimonWaldherr/GoRealtimeWeb (example)
  - https://jacobmartins.com/2016/03/07/practical-golang-using-websockets/ (article)
- - https://github.com/centrifugal/centrifugo
+ - https://github.com/centrifugal/centrifugo (standalone)
+ 
+### Server-side Events
+
+ - https://github.com/appleboy/gorush/tree/master/vendor/github.com/gin-contrib/sse
 
 ### Amazon S3 Presign:
 
@@ -143,6 +153,10 @@ Sources:
  - https://github.com/go-ego/riot
  - https://github.com/huichen/wukong
 
+### App statistics middleware
+
+ - https://github.com/thoas/stats
+
 ## APIs etc
 
 ### Recaptcha:
@@ -165,7 +179,7 @@ Sources:
 ### Mobile App Notifications:
 
  - https://github.com/smancke/guble
- - https://github.com/appleboy/gorush
+ - https://github.com/appleboy/gorush (standalone)
 
 ### Error Logging APIs:
 
