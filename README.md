@@ -63,22 +63,25 @@ Sources:
 
 ### Oauth Server:
 
+ - https://github.com/nasa9084/oauth-example/blob/master/provider/main.go (single file example)
  - https://github.com/RangelReale/osin
  - https://github.com/go-oauth2/oauth2
  - https://github.com/RichardKnop/go-oauth2-server
  - https://github.com/ory/fosite
  - https://github.com/coreos/dex (authentication service)
  - https://github.com/earaujoassis/space (authentication service)
+ - https://github.com/hkolasani/goauth (simpler)
  - https://github.com/jmcvetta/o2pro (deprecated)
 
 ### Oauth Client:
 
- - https://github.com/shferreira/minimal_go_website/blob/echo-oauth2/app.go
+ - https://github.com/shferreira/minimal_go_website/blob/echo-oauth2/app.go (using the standard library)
  - https://github.com/dghubble/gologin (Light)
  - https://github.com/markbates/goth (Lots of providers)
  - https://github.com/volatiletech/authboss/tree/master/oauth2 (too heavy apparently)
  - https://github.com/Medium/medium-sdk-go
  - https://github.com/huandu/facebook
+ - https://github.com/go-macaron/oauth2 (middleare)
 
 ### Websockets:
 
