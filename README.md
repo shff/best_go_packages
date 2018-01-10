@@ -260,3 +260,12 @@ Sources:
  - https://github.com/Knetic/govaluate
  - https://github.com/elgs/jsonql/blob/master/exparser.go
  - https://github.com/mattn/anko (complete language)
+
+## Applications Written in Golang
+
+### Web Applications
+
+ - https://github.com/markbates/buffla (url shortener)
+ - https://github.com/appleboy/gorush (app notifications service)
+ - https://github.com/rocajuan/go-img-upload/ (very simple image uploader/resizer service)
+ - https://github.com/willnorris/imageproxy (complex image uploader/resizer service)
