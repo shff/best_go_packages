@@ -64,8 +64,12 @@ Sources:
 ### Oauth Server:
 
  - https://github.com/RangelReale/osin
- - https://github.com/go-oauth2/oauth2/blob/master/example/server/server.go
+ - https://github.com/go-oauth2/oauth2
  - https://github.com/RichardKnop/go-oauth2-server
+ - https://github.com/ory/fosite
+ - https://github.com/coreos/dex (authentication service)
+ - https://github.com/earaujoassis/space (authentication service)
+ - https://github.com/jmcvetta/o2pro (deprecated)
 
 ### Oauth Client:
 
