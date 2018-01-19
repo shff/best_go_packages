@@ -85,12 +85,17 @@ Sources:
 
 ### Websockets:
 
- - https://echo.labstack.com/cookbook/websocket#using-net-websocket (example)
- - https://github.com/golang-samples/websocket/blob/master/websocket-chat/src/chat/server.go (example)
- - https://github.com/knowthen/rtsupportserver (example)
- - https://github.com/scotch-io/go-realtime-chat (example)
- - https://github.com/SimonWaldherr/GoRealtimeWeb (example)
- - https://jacobmartins.com/2016/03/07/practical-golang-using-websockets/ (article)
+ - https://github.com/gobwas/ws/
+   - https://medium.freecodecamp.org/million-websockets-and-go-cc58418460bb (article)
+ - https://github.com/gorilla/websocket
+   - http://arlimus.github.io/articles/gin.and.gorilla/ (example)
+ - Examples:
+   - https://echo.labstack.com/cookbook/websocket#using-net-websocket (example)
+   - https://github.com/golang-samples/websocket/blob/master/websocket-chat/src/chat/server.go (example)
+   - https://github.com/knowthen/rtsupportserver (example)
+   - https://github.com/scotch-io/go-realtime-chat (example)
+   - https://github.com/SimonWaldherr/GoRealtimeWeb (example)
+   - https://jacobmartins.com/2016/03/07/practical-golang-using-websockets/ (article)
  - https://github.com/centrifugal/centrifugo (standalone)
  
 ### Server-side Events
