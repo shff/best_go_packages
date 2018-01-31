@@ -251,6 +251,7 @@ Sources:
 
 ### Image Processing
 
+ - https://github.com/esimov/caire (Content-aware resizing)
  - https://github.com/nfnt/resize
  - https://github.com/anthonynsimon/bild
  - https://github.com/h2non/bimg
