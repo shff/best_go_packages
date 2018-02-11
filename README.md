@@ -126,6 +126,7 @@ Sources:
 
 ### GraphQL:
 
+ - https://github.com/vektah/gqlgen
  - https://github.com/graphql-go/graphql
 
 ### Swagger:
