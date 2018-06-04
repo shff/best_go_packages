@@ -21,7 +21,7 @@ Sources:
  - https://github.com/go-gorp/gorp (relationships but requires join by hand, callbacks, auto-migrations)
  - https://github.com/go-xorm/xorm (relationships but requires join by hand, migrations, map[string]string, callbacks)
  - https://github.com/astaxie/beego/tree/master/orm
- - https://github.com/markbates/pop (complete toolkit, with yaml configuration, true migrations, etc)
+ - https://github.com/gobuffalo/pop (complete toolkit, with yaml configuration, true migrations, etc)
  - https://github.com/coocood/qbs (very fast, automatic joins)
  - http://upper.io/ (no joins)
  - Blogpost about it: http://jmoiron.net/blog/golang-orms/
