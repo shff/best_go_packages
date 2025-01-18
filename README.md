@@ -8,7 +8,7 @@ Sources:
 
  - https://github.com/labstack/echo
  - https://github.com/gin-gonic/gin (Sinatra-like)
- - https://github.com/astaxie/beego (Rails-like)
+ - https://github.com/beego/beego (Rails-like)
  - https://github.com/gorilla/mux
  - https://github.com/julienschmidt/httprouter
  - https://github.com/bmizerany/pat
@@ -132,13 +132,6 @@ Sources:
 ### Swagger:
 
  - https://github.com/go-swagger/go-swagger
-
-### JWT
-
- - Don' use JWT: https://news.ycombinator.com/item?id=13867089
-   - Use Fernet instead: https://news.ycombinator.com/item?id=13869207
-   - https://github.com/fernet/fernet-go / https://github.com/fernet/fernet-go/blob/master/example_test.go
- - ~~https://github.com/dgrijalva/jwt-go~~
 
 ### HTML Sanitizers
 
